@@ -7,3 +7,4 @@ This project is for the scenario "One Small Step – A tech-heavy mini-project, 
 Credits:
 This project makes use of JoyconLib (https://github.com/Looking-Glass/JoyconLib) and the libaries it incorperates under a MIT License.
 Joycons are produced and trademarked by Nintendo.
+Everything else was made by me.
